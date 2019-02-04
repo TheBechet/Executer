@@ -1,7 +1,33 @@
-{ "white": [
+{ "white": ["Ancaps", 
+            "The gouvernment", 
+            "Toxic masculinity",
+            "Big gov", 
+            "Dictatorship of the proletariat", 
+            "Liberals", 
+            "Leftists", 
+            "SJWs", 
+            "Cis white males", 
+            "The Frankfurt School",
+            "Gamer gate",
+            "Obamacare",
+            "Political correctness",
+            "Political Youtube",
+            "Political commentries on The last Jedi",
+            "Watergate",
+            "Article 13",
+            "Brexit",
+            "Free trade agreements",
+            "Me-too",
+            "Tweets",
+            "Clorine-washed chicken",
   
   ],
-  "black": [
+  "black": ["Scandal: Feminists now want to ban __(1)__.",
+            "It depends on what the meaning of the word __(1)__ is.",
+            "I did not have any relationship with __(1)__.",
+            "I'm representing the intrests of a wealthy group. We can make you rich when you help us legalise __(1)__.",
+            "There – it's – you know, one of the hardest parts of my job is to connect Iraq to the war on __(1)__.",
+            
     
   ]
 }
